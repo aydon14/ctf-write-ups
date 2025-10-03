@@ -1,2 +1,2 @@
-# ctf-write-ups
-My CTF Website Write-ups
+https://aydon14.github.io/ctf-write-ups
+
